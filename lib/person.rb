@@ -1,3 +1,10 @@
 class Person
-  #your code here
+  
+  person = {
+  
+  def initialize(person)
+  
+  
+  
+  
 end
