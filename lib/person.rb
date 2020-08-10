@@ -1,6 +1,6 @@
 class Person
   
-  person = {name:, 
+  person = {name:, birthday:
   
   def initialize(person)
   
